@@ -1,24 +1,38 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="assets/css/style.css">
-    <link href="https://fonts.googleapis.com/css?family=Bowlby+One+SC&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Caveat&display=swap" rel="stylesheet">
-    <title>Ajax</title>
-</head>
-<body>
-    <header>
-        <h1>Citation of the day</h1>
-    </header>
-    <main>
-        <blockquote id="quote"></blockquote>
-        <button id ="run">find a citation for the day</button>
-    </main>
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="assets/css/style.css">
+        <link href="https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Open+Sans+Condensed:wght@300&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.0/css/bulma.min.css">
+        <title>Quote of the day</title>
+    </head>
+    
+    <body>
+    <section class="section">
+        <div class="container">
+        <h1 class="title">
+            Quote of the day
+        </h1>
+        </div>
+    </section>
 
+    <main class="section has text-centered">
+        <blockquote id="quote" class="textarea is-warning"></blockquote>
+        <button class="button is-large textarea is-warning" id ="run">Find your quote of the day...</button>
+    </main>
+    
+    <footer class="footer">
+        <div class="content has-text-centered ">
+        <p>
+            <strong>Quote of the day</strong> by <a href="https://github.com/88aleksandra88">Aleksandra Slowik</a>. Junior Web Developer at
+            <a href="https://becode.org/fr/">@BeCode</a>. 
+        </p>
+        </div>
+    </footer>
 
     <script src="assets/js/script.js"></script>
-</body>
-</html>
+   </body>
+  </html>
