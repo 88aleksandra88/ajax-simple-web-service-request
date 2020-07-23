@@ -10,7 +10,7 @@
 
 # Project:
 
-Follow the link :point_right: https://88aleksandra88.github.io/ajax-simple-web-service-request/
+Follow the link :point_right: https://88aleksandra88.github.io/ajax-simple-web-service-request.io/
 
 ## Learning Objectives
 
