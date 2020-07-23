@@ -8,6 +8,10 @@
 - Repository: `ajax-simple-web-service-request`
 - Deployment stragegy : GitHub Page
 
+# Project:
+
+Follow the link :point_right: https://88aleksandra88.github.io/ajax-simple-web-service-request/
+
 ## Learning Objectives
 
 - A typical Ajax flow : make an asynchronous request to a remote server via javascript and process the response.
