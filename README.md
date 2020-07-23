@@ -2,7 +2,6 @@
 
 <img src="https://www.id-clic.be/wp-content/uploads/2014/04/ajax-logo.png">
 
-# Exercise: consume a web service via Ajax
 
 - Time necessary : **1/2 day**
 - Work mode : **Solo**
